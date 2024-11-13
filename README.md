@@ -18,6 +18,6 @@ Trying to learn as many things as possible (not the best idea probably).
 Currently exploring the AI/ML world.
 
 ### 🤝 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/suryansh-singh-ncl/) | [MyWebsite](https://suryansh.cloud/)
+[LinkedIn](https://www.linkedin.com/in/suryansh-singh-ncl/) | [MyWebsite](https://suryansshh.cloud/)
 
 --- 
