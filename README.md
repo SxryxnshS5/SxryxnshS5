@@ -37,7 +37,6 @@ Currently mastering the .NET space.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SxryxnshS5&show_icons=true&theme=synthwave" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SxryxnshS5&theme=synthwave" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SxryxnshS5&layout=compact&theme=synthwave" alt="Top Languages" /> 
 </p>
 
 ## 🎯 Fun Extras
