@@ -22,17 +22,10 @@
 🌐 Familiar with:  
 - 🐍 **Python/Flask**  
 - 💙 **Flutter**  
-- ⚛️ **React**  
+- ⚛️ **React**
 
-🚀 I love building scalable, robust solutions and experimenting with cutting-edge tech!  
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SxryxnshS5&show_icons=true&theme=synthwave" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SxryxnshS5&theme=synthwave" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SxryxnshS5&layout=compact&theme=synthwave" alt="Top Languages" /> 
-</p>
-
+## 🌱 Learning & Goals
+Currently mastering the .NET space.
 
 ## 🔧 Featured Projects
 - **[Rangined Image Processing Tool](https://github.com/SxryxnshS5/Rangined-Image_Processing_Tool)**: Advanced tool for image processing and batch compression.
@@ -40,8 +33,12 @@
 - **[Career Planner AI](https://github.com/SxryxnshS5/career-planner-ai)**: Web app that tailors career advice through CV analysis.
 - **[Sentiment-Analysis-WebApp](https://github.com/SxryxnshS5/Sentiment-Analysis-WebApp)**: Sentiment Analysis web application built using Flask and Hugging Face's transformers library.
 
-## 🌱 Learning & Goals
-Currently mastering the .NET space.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SxryxnshS5&show_icons=true&theme=synthwave" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SxryxnshS5&theme=synthwave" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SxryxnshS5&layout=compact&theme=synthwave" alt="Top Languages" /> 
+</p>
 
 ## 🎯 Fun Extras
 - 🖼️ Check out my GitHub trophies:  
