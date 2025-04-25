@@ -3,8 +3,6 @@
 
 # Hi there 👋, I'm Suryansh!
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SxryxnshS5.SxryxnshS5)
-
 ## 🧑‍💻 About Me  
 🎓 **BSc Hons Computer Science** student at Newcastle University  
 👨‍🔧 **Software Engineering Placement Student** at Andor - Oxford Instruments in Belfast  
