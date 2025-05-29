@@ -8,7 +8,7 @@
 👨‍🔧 **Software Engineering Placement Student** at Andor - Oxford Instruments in Belfast  
 
 💻 Passionate about **full-stack development** with expertise in:  
-- 🛠️ **.NET Technologies**: ASP.NET Core, Blazor, and more  
+- 🛠️ **.NET Technologies**: C# & XAML Desktop developement, ASP.NET Core, Blazor, and more  
 - ⚙️ Feature Development, Bug Fixing, Device Integration, and Unit Testing (with Mocking)  
 - 🧩 Design Patterns: Singleton, Factory, MVVM, and more  
 - 🎨 **XAML Views** for rich UI development  
